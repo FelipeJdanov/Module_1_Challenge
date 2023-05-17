@@ -15,7 +15,9 @@
  
 ## Business Activities
 
-Wise was launched in 2011 with the vision of making international money transfers cheap, fair, and simple. Today, Wise multi-currency account helps millions of people and businesses manage their money across the world. It's stands out from some of its competitors by not marking up exchange rates to fatten profits. The company boasts that it avoids “unfair” exchange rates charged by banks. Currently, Wise processes 4.5 billion pounds in cross-border transactions every month, has 10 million customers and was recently valued at 5 billion dollars.
+Wise was launched in 2011 with the vision of making international money transfers cheap, fair, and simple. Today, Wise multi-currency account helps millions of people and businesses manage their money across the world. It's stands out from some of its competitors by not marking up exchange rates to fatten profits. The company boasts that it avoids “unfair” exchange rates charged by banks. 
+
+Currently, Wise processes 4.5 billion pounds in cross-border transactions every month, has 10 million customers between people and businesses and was recently valued at 5 billion dollars. With the Wise account, the customers hold balances in over 50 currencies and use Wise debit card to shop and spend while abroad, saving them bank fees and time.
 
 ## Tecnology
 

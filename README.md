@@ -57,8 +57,6 @@ The remittance industry has a significant social impact and development potentia
 
 ## Results
 
-* What has been the business impact of this company so far?
-
 The problem of broken international banking exists in a massive market. It is estimated that there are over 280 million immigrants worldwide, and that businesses export US$18 trillion in a year. In 2021 people and businesses transferred £22 trillion globally.
 
 Wise, continuously increasing the speed of transfers as develop infrastructure, and in the most recent quarter 49% of Wise transfers were instant, 65%were delivered in under one hour, and 88% arrived in under 24 hours. It is possible to estimate the time of delivery with an accuracy of nearly 80% which is value as important information.

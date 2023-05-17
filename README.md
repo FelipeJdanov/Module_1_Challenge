@@ -37,7 +37,7 @@ To build the frontend, Wise uses Bower and NPM for dependency management. Grunt 
 
 Remittance & money transfer software manages transfers of funds between companies as well as between companies and their customers. This type of software is used to securely transfer money in multiple currencies for various purposes, such as paying invoices or moving funds between different subsidiaries. Remittance & money transfer software is mainly used by finance professionals and by B2B customers to make payments online.
 
-Like Wise, other companies operating in the Remittance & money transfer market as their competitors, some os them are:
+Like Wise, other companies operating in the Remittance & money transfer market as their competitors, some of them are:
 
 * [MoneyGram](https://www.moneygram.com/): It offers a wide range of different options for sending, funding and collecting transfers, and has an extensive global network.
 * [Xoom](https://www.xoom.com/): Owned by PayPal, Xoom is a money transfer service offering online transfers to bank accounts, mobile wallets and debit cards.
@@ -49,15 +49,34 @@ Like Wise, other companies operating in the Remittance & money transfer market a
 * [OFX](https://www.ofx.com/): You can make a single payment or set up recurring transfers, benefiting from locked-in exchange rates.
 
 Traditionally, the costs of securely organising and transferring money globally have been relatively high. The rise in digitisation and automation reduced remittance cost and transfer time, and increased adoption of banking and financial services are driving the growth of the digital remittance market with the help of the internet.<br/>
+
 The remittance industry offers many opportunities for digital transformation and innovation. The rapid adoption of mobile phones, internet, and digital platforms has enabled new ways of sending and receiving money, such as mobile money, online platforms, e-wallets, and blockchain. These digital channels can reduce the cost, time, and friction of remittances, as well as increase the convenience, security, and transparency. They can also expand the reach and inclusion of remittance customers, especially in rural and remote areas where access to traditional financial services is limited or nonexistent.
+Remittance is the capital flow between individuals in two different countries, typically by foreign workers to individuals in their home country. According to the World Bank, the total remittance market is comprised of $550B in total flows, 80% of which are within emerging economies.<br/>
+
+The remittance industry has a significant social impact and development potential for both the senders and receivers of money. Remittances can improve the livelihoods, education, health, and resilience of millions of households and communities in developing countries. They can also stimulate economic growth, investment, and entrepreneurship, as well as foster financial inclusion and literacy. Furthermore, remittances can support humanitarian and crisis response, as well as contribute to the achievement of the Sustainable Development Goals. However, to maximize the positive impact of remittances, there is a need for more coordination, collaboration, and innovation among various stakeholders, such as governments, RSPs, civil society, and international organizations.
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+The problem of broken international banking exists in a massive market. It is estimated that there are over 280 million immigrants worldwide, and that businesses export US$18 trillion in a year. In 2021 people and businesses transferred £22 trillion globally.
 
-* How is your company performing relative to competitors in the same domain?
+Wise, continuously increasing the speed of transfers as develop infrastructure, and in the most recent quarter 49% of Wise transfers were instant, 65%were delivered in under one hour, and 88% arrived in under 24 hours. It is possible to estimate the time of delivery with an accuracy of nearly 80% which is value as important information.
+
+In 2022, Wise moved £76 billion of customers’ money, an increase of 40% compared with last year. In FY2022, Wise had 7 million active personal customers and c. 410,000 active business customers. Both segments are growing rapidly with personal customers growing at 24% and business customers growing at 34% over FY2021. £76.4 billion was processed in cross-border payments in FY2022, which was a 40% increase over the prior year. The volume from personal customers grow by 35% YoY whilst Business customer volume grew by 59% YoY.
+
+Revenue growth across all of operating regions. This includes 30% in the United Kingdom, Wise most mature market. This follows from the 32% growth in the United Kingdom in FY2021. The total take rate decreased by only 4bps to 0.73% in FY2022 compared to 0.77% in the prior year, as the contribution to take rate from other revenues grew from 0.07% in FY2021 to 0.10% in FY2022.
+
+Administrative costs increased 48% to £321.4 million, primarily due to an increase in employee costs, outsourced services, marketing and other administrative expenses.
+
+Employee costs increased 31% to £184.8 million as Wise continued to build a teams to support growth. The increased the number of employee by 950 to almost 3,400.
+
+Consultancy and outsourced services increased by 55% to £42.3 million and other administrative expenses were almost four times higher at £22.9 million.
+
+Profit before tax was £43.9 million compared to £41.1 million last year, a growth of 7%. This reflects the higher growth in operating expenses and the investment in our future, but also was in part driven by the costs of the listing, and includes a £4.8 million loss on the sale of government bonds in early 2022. Stock based compensation expense increased 11% YoY, a total cost of £42.2 million for FY2022.
+
+In the medium term, is expect to deliver revenue growth above 20% (CAGR) and an adjusted EBITDA margin at or above 20% as Wise continue to invest sustainably.
+Is expect revenue to grow by between 30% to 35% in FY2023.
 
 
 ## Recommendations

@@ -79,15 +79,21 @@ Is expect revenue to grow by between 30% to 35% in FY2023.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+One of the features present in other remittance companies in the same field, like [Srkill](https://www.skrill.com/) for example, that could be adopted by Wise is the *Conditional Order* option, according to [Investopidia](https://www.investopedia.com/terms/c/conditionalorder.asp) "A conditional order is an order that includes one or more specified criteria." The most common conditional order is the *limit* order, where it is stipulated that the order will be executed when the given currency reaches a certain amount or percentage value.
 
-* Why do you think that offering this product or service would benefit the company?
+A conditional order is very useful if the customer only wants to make the transfer if the conditions specified by him happen, so that he does not miss a good time to send the transfer, and also advantageous for the company that will have kept the customer and benefit from the fees applied to the transfer.
 
-* What technologies would this additional product or service utilise?
+Little additional investment would be necessary to include this functionality, the same technology already used by the company can be adapted and flexed for the inclusion of the product. Something like a new table in the database storing the Conditional Orders created by the clients and a function in the system code to observe when the specified moment is reached to create the transaction. Other necessary resources, such as creating the transaction or sending an email alerting the customer that the order has been executed, already exist in the system.
 
-* Why are these technologies appropriate for your solution?
+Another very useful product would be the possibility of making payments. In this functionality, it would be possible to add an amount to your wallet and this amount would be automatically converted to the local currency where you are paying a bill, whether it be electricity, telephone, rent, or anything else of interest to the customer.
+
+For this functionality, a few more resources would have to be needed, since not all countries operate in the same way for account management, it would be necessary to do a deeper research of the technologies applied to each country and select one that applies best to the most.
+However, as an example, let's say that the selected technology is a QR code that passes payment data to Wise. The customer would only need to scan the QR code and with the payment destination information, Wise would convert the amount needed in the wallet to the destination country and transfer it to the receiving company. This way, paying for an account internationally would be quick, easy, and secure.
+
+With the adoption of this product, Wise would significantly increase the number of daily transactions, thus generating more profit per number of transactions and increasing the number of customers due to flexibility.
 
 
+### References
 
 https://wise.com/
 https://en.wikipedia.org/wiki/Wise_(company)
@@ -95,3 +101,4 @@ https://www.crunchbase.com/organization/transferwise
 https://www.forbes.com/advisor/money-transfer/wise-review/
 https://medium.com/wise-engineering/the-transferwise-stack-heartbeat-of-our-little-revolution-80e36482bcf9#:~:text=TransferWise%20started%20with%20MySQL.
 https://www.linkedin.com/advice/1/what-key-trends-innovations-shaping-future-remittance
+https://www.investopedia.com/terms/c/conditionalorder.asp
